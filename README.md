@@ -14,7 +14,7 @@ This repository showcases a comprehensive data analytics portfolio featuring **P
 
 | **Component** | **Technology Used** | **Key Features** |
 |---------------|---------------------|------------------|
-| **Interactive Dashboards** | Power BI, Tableau | Executive summaries, sales analysis, customer analytics |
+| **Interactive Dashboards** | Power BI, Excel,Tableau | Executive summaries, sales analysis, customer analytics |
 | **Data Processing** | SQL, CSV, Excel | Cleaning, transformation, aggregation, scenario modeling |
 | **Visualization** | Power BI, Tableau, Excel Charts, JSON Maps | Trend analysis, geospatial insights, KPI tracking |
 | **Documentation** | PDF, Markdown | Professional reporting and portfolio documentation |
