@@ -168,7 +168,7 @@ Shared under the terms in the LICENSE file. Uses public Adventure Works dataset.
 
 ### 📊 **Portfolio Statistics**
 ![Repository Stats](https://img.shields.io/badge/Projects-5+-blue)  
-![Dashboard Count](https://img.shields.io/badge/Dashboards-2-green)  
+![Dashboard Count](https://img.shields.io/badge/Dashboards-4-green)  
 ![Data Sources](https://img.shields.io/badge/Data%20Sources-6-orange)  
 ![Documentation](https://img.shields.io/badge/Docs-Complete-brightgreen)
 
